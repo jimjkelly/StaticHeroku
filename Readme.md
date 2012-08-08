@@ -2,6 +2,10 @@ This ia barebones setup one could use for hosting static Heroku sites.  It's bas
 
 http://anti-pattern.com/2012/6/2/static-sites-on-heroku
 
+More information can be found from Heroku themselves here:
+
+https://devcenter.heroku.com/articles/static-sites-on-heroku
+
 Use
 ===
 
