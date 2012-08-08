@@ -8,7 +8,8 @@ Use
 Using this stubbed out setup is easy, just run the following from your terminal (assuming your have Ruby and git installed):
 
 	$ gem install heroku
-	$ git clone git@github.com:jimjkelly/StaticHeroku.git
+	$ git clone https://github.com/jimjkelly/StaticHeroku.git
+	$ cd StaticHeroku
 	$ heroku create
 	$ git push heroku master
 
